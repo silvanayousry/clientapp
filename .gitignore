@@ -1,0 +1,16 @@
+# IDE / Editor ignore
+.vscode/
+
+# Binaries for programs and plugins
+go.sum
+
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories 
+
+storage/
+vendor/
+
+

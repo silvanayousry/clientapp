@@ -1,0 +1,6 @@
+title = "configuration file"
+
+[app]
+port = 9000
+read_timeout = 5 #seconds
+
